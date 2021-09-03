@@ -4,13 +4,13 @@
 
 重要事情说三遍：
 
-​		**中高风险地区同学谨慎使用！**
+​    &emsp;   **中高风险地区同学谨慎使用！**
+ 
+​    &emsp;  	**中高风险地区同学谨慎使用！**
 
-​    	**中高风险地区同学谨慎使用！**
+​    &emsp;   **中高风险地区同学谨慎使用！**
 
-​        **中高风险地区同学谨慎使用！**
-
-​		                                                                                                                              发布日期：2021-09-03
+​		 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;         发布日期：2021-09-03
 
 ### 浏览器插件下载
 
@@ -23,7 +23,7 @@ Google Chrome	92.0.4515.159 (正式版本) （32 位） (cohort: Stable)
 JavaScript	V8 9.2.230.29
 ```
 
-然后在http://chromedriver.storage.googleapis.com/index.html下载对应版本插件，替换当前的浏览器版本。
+然后在http://chromedriver.storage.googleapis.com/index.html 下载对应版本插件，替换当前的浏览器版本。
 
 ### 依赖安装
 
