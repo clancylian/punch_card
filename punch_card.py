@@ -110,6 +110,5 @@ if __name__ == '__main__':
         sentemail("打卡成功")
 
     sleep(1)
-    driver.close()
-    exit(0)
-
+    # 采用close()执行脚本的时候不会自动退出
+    driver.quit()
