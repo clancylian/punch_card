@@ -81,7 +81,8 @@ if __name__ == '__main__':
     # 点击登录
     driver.find_element_by_class_name("auth_login_btn").click()
     sleep(5)
-    driver.find_elements_by_class_name("app_child")[1].click()
+    # 2021.9.20页面修改了
+    driver.find_elements_by_class_name("app_child")[2].click()
     sleep(5)
     # 跳转到新网页
     driver.switch_to.window(driver.window_handles[-1])
