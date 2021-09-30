@@ -88,3 +88,10 @@ exit
 └─README.md         说明文档
 ```
 
+### 2021.09.30 更新
+如果出现类似以下错误：
+```
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 87
+Current browser version is 86.0.4240.198 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+```
+说明你的驱动程序版本太低了，重新看下chrome版本，下载对应版本驱动。
